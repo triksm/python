@@ -12,7 +12,7 @@ Saque: Permite sacar até R$ 500,00 por vez, com um limite de 3 saques diários.
 
 Extrato: Exibe o histórico de todas as movimentações (depósitos e saques) e o saldo atual da conta.
 
-Como Executar""
+Como Executar:
 Para executar este projeto, você precisa ter o Python instalado. Salve o código principal em um arquivo com o nome main.py e execute-o a partir do terminal com o seguinte comando:
 
 python main.py
